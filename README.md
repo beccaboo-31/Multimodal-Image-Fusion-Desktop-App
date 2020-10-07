@@ -6,6 +6,8 @@ We aim to approach a three step process:
 2. Image Fusion
 3. Image Segmentation
 
+The Desktop Application provides a step-by-step process to upload images and displays all the intermediate files.
+
 ***
 
 All the above functionalities have also been implemented on a Website using Flask and Python Scripts.
